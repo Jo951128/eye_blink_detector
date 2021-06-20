@@ -3,7 +3,6 @@ import numpy as np
 from imutils import face_utils
 from keras.models import load_model
 
-from playsound import playsound
 import winsound
 
 
